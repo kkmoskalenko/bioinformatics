@@ -1,6 +1,12 @@
+.idea/
+.redun/
+
 bin/
 input/
 output/
+
+!input/reference.fna
+!input/sequence.fastq.gz
 
 # General
 .DS_Store
